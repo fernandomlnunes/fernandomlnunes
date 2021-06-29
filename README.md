@@ -1,16 +1,20 @@
 ### Hi there 👋
 
 <!--
-**fernandomlnunes/fernandomlnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋
 
-Here are some ideas to get you started:
+Olá meu nome é Fernando, sou do Brasil :brazil:, estudante de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Algumas ferramentas em que estou me aprimorando, 
+#### 🛠Ferramentas:
+
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- SQL Server
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVDlJVxNUJGCzgviJaHzrLQ/featured)](https://www.youtube.com/channel/UCVDlJVxNUJGCzgviJaHzrLQ/featured) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-monteiro-de-lima-nunes-5bb499175//)](https://www.linkedin.com/in/fernando-monteiro-de-lima-nunes-5bb499175/)
+
+
 -->
