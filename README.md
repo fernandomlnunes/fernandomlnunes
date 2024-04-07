@@ -8,26 +8,13 @@ Algumas ferramentas que ultilizo e algumas em que estou me aprimorando:
 
 - SCRUM
 - VScode
-- HTML5
-- CSS3
-- Bootstrap
 - JavaScript
-- Node.js
 - React
-- Angular
 - Java
-- Python
-- C#
-- .NET
 - MySQL
 - SQL Server
 - GIT
 - GitHub
-- VBA | Visual basic for applications
-- Administrando Bancos de Dados
-- Ética no Desenvolvimento de Sistemas
-- Fundamentos de Lógica de Programação
-- Gestão de Projetos
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-monteiro-de-lima-nunes-5bb499175//)](https://www.linkedin.com/in/fernando-monteiro-de-lima-nunes-5bb499175/)
 
