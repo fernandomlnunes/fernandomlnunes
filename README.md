@@ -4,14 +4,9 @@ Olá meu nome é Fernando, programador backend com 3 de anos de experiência e e
 
 Algumas ferramentas que ultilizo e estou me aprimorando e se atualizando diáriamente:
 
-#### 🛠Ferramentas:
+#### 🛠Framework:
 
-- SCRUM
-- VScode
-- JavaScript
-- React
 - Java
-- Pytohn
 - MySQL
 - SQL Server
 - GIT
