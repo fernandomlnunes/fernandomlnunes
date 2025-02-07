@@ -27,9 +27,6 @@ Algumas ferramentas que ultilizo e estou me aprimorando e se atualizando diária
 </p>
 
 
-<img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/chart-growth-lineal.gif" width="26"> Stats:
-
-
 
 ![Fernando Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonvinicius&show_icons=true&hide=contribs,prs&include_all_commits=true&layout=compact&hide_border=true&theme=great-gatsby&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,html,less,shell,Rich%20Text%20Format%0A&theme=great-gatsby)](https://github.com/robsonvinicius)
