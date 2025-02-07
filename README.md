@@ -25,8 +25,3 @@ Algumas ferramentas que ultilizo e estou me aprimorando e se atualizando diária
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> &nbsp;
 
 </p>
-
-
-
-![Fernando Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonvinicius&show_icons=true&hide=contribs,prs&include_all_commits=true&layout=compact&hide_border=true&theme=great-gatsby&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,html,less,shell,Rich%20Text%20Format%0A&theme=great-gatsby)](https://github.com/robsonvinicius)
