@@ -7,6 +7,7 @@ Algumas ferramentas que ultilizo e estou me aprimorando e se atualizando diária
 #### 🛠Framework:
 
 - Java
+- JavaScript
 - MySQL
 - SQL Server
 - GIT
